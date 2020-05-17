@@ -1,1 +1,1 @@
-# Actualizaciones de Macro para el certidicado de calibracion 
+# Actualizaciones de Macro para el certificado de calibracion 
